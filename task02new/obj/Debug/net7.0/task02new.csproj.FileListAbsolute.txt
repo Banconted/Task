@@ -1,0 +1,15 @@
+C:\Users\Adel\Desktop\C# 01.08.23\task02new\bin\Debug\net7.0\task02new.exe
+C:\Users\Adel\Desktop\C# 01.08.23\task02new\bin\Debug\net7.0\task02new.deps.json
+C:\Users\Adel\Desktop\C# 01.08.23\task02new\bin\Debug\net7.0\task02new.runtimeconfig.json
+C:\Users\Adel\Desktop\C# 01.08.23\task02new\bin\Debug\net7.0\task02new.dll
+C:\Users\Adel\Desktop\C# 01.08.23\task02new\bin\Debug\net7.0\task02new.pdb
+C:\Users\Adel\Desktop\C# 01.08.23\task02new\obj\Debug\net7.0\task02new.csproj.AssemblyReference.cache
+C:\Users\Adel\Desktop\C# 01.08.23\task02new\obj\Debug\net7.0\task02new.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adel\Desktop\C# 01.08.23\task02new\obj\Debug\net7.0\task02new.AssemblyInfoInputs.cache
+C:\Users\Adel\Desktop\C# 01.08.23\task02new\obj\Debug\net7.0\task02new.AssemblyInfo.cs
+C:\Users\Adel\Desktop\C# 01.08.23\task02new\obj\Debug\net7.0\task02new.csproj.CoreCompileInputs.cache
+C:\Users\Adel\Desktop\C# 01.08.23\task02new\obj\Debug\net7.0\task02new.dll
+C:\Users\Adel\Desktop\C# 01.08.23\task02new\obj\Debug\net7.0\refint\task02new.dll
+C:\Users\Adel\Desktop\C# 01.08.23\task02new\obj\Debug\net7.0\task02new.pdb
+C:\Users\Adel\Desktop\C# 01.08.23\task02new\obj\Debug\net7.0\task02new.genruntimeconfig.cache
+C:\Users\Adel\Desktop\C# 01.08.23\task02new\obj\Debug\net7.0\ref\task02new.dll
