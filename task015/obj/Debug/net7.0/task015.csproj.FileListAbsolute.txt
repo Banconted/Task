@@ -1,0 +1,15 @@
+C:\Users\Adel\Desktop\C# 01.08.23\task015\bin\Debug\net7.0\task015.exe
+C:\Users\Adel\Desktop\C# 01.08.23\task015\bin\Debug\net7.0\task015.deps.json
+C:\Users\Adel\Desktop\C# 01.08.23\task015\bin\Debug\net7.0\task015.runtimeconfig.json
+C:\Users\Adel\Desktop\C# 01.08.23\task015\bin\Debug\net7.0\task015.dll
+C:\Users\Adel\Desktop\C# 01.08.23\task015\bin\Debug\net7.0\task015.pdb
+C:\Users\Adel\Desktop\C# 01.08.23\task015\obj\Debug\net7.0\task015.csproj.AssemblyReference.cache
+C:\Users\Adel\Desktop\C# 01.08.23\task015\obj\Debug\net7.0\task015.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adel\Desktop\C# 01.08.23\task015\obj\Debug\net7.0\task015.AssemblyInfoInputs.cache
+C:\Users\Adel\Desktop\C# 01.08.23\task015\obj\Debug\net7.0\task015.AssemblyInfo.cs
+C:\Users\Adel\Desktop\C# 01.08.23\task015\obj\Debug\net7.0\task015.csproj.CoreCompileInputs.cache
+C:\Users\Adel\Desktop\C# 01.08.23\task015\obj\Debug\net7.0\task015.dll
+C:\Users\Adel\Desktop\C# 01.08.23\task015\obj\Debug\net7.0\refint\task015.dll
+C:\Users\Adel\Desktop\C# 01.08.23\task015\obj\Debug\net7.0\task015.pdb
+C:\Users\Adel\Desktop\C# 01.08.23\task015\obj\Debug\net7.0\task015.genruntimeconfig.cache
+C:\Users\Adel\Desktop\C# 01.08.23\task015\obj\Debug\net7.0\ref\task015.dll
