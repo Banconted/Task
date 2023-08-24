@@ -24,7 +24,6 @@ while (length > 0)
     count --;
 }
 
-// сравниваем значения массива согласно позиции
 if ((array[0] == array[4])
     && (array[1] == array[3]))
 { Console.Write("Да"); }
